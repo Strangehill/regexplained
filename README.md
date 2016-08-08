@@ -1,1 +1,1 @@
-http://leaverou.github.com/regexplained/
+https://leaverou.github.io/regexplained/
